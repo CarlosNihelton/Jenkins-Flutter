@@ -58,7 +58,7 @@ I tested this with 3 devices at maximum on a single hub. I don't know how many d
 wants to find it out.
 
 ## A short demo
-I made this to share the idea if class mates of the Software Engineering course.
+I made the video in the link below to share the idea with class mates of the Software Engineering course.
 Audio is in Portuguese, because that's our mother language.
 I was not intending to publish that.
 Maybe sometime I take another moment and record a proper demo in English.
